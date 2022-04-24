@@ -1,6 +1,6 @@
 # SURFS UP 
 ## _An analysis of the weather using Sqlite database and SQLAlchemy_
-
+************************************************************************************************************************************************************************
 ## Project Overview
 
 Like all other considerations that goes into setting up a business the weather pattern is considered when siteing a surf shop. 
@@ -14,5 +14,8 @@ Tools used in this project included;
 -Python
 
 -SQLAlchemy
+
+## Results
+
 
 
