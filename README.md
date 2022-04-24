@@ -1,5 +1,6 @@
 # SURFS UP 
 ## _An analysis of the weather using Sqlite database and SQLAlchemy_
+***
 
 ## Project Overview
 
