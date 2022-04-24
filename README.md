@@ -17,6 +17,9 @@ Tools used in this project included;
 -SQLAlchemy
 
 ## Results
+* The Average temperature reading for both June and December were above 70 degrees
+* The maximum temperature for June was 85 egress and December stood at 83 degress
+* The minimum temperature for June was 64 degress and 69 degress for December
 
-
-
+![Image text](https://github.com/emmanuelbrim/surfs_up/blob/main/Resources/June%20Temps.PNG)
+![](https://github.com/emmanuelbrim/surfs_up/blob/main/Resources/Dec%20Temps.PNG)
