@@ -36,9 +36,9 @@ The summary statistics of precipitation for June and December should be consider
 
 *(Example of Query to retrieve Statistics for June Precipation)* 
 
-![Image text](https://github.com/emmanuelbrim/surfs_up/blob/main/Resources/June%20Temps.PNG)
+![Image text](https://github.com/emmanuelbrim/surfs_up/blob/main/Resources/Jun%20Precp.PNG)
 
 
 *(Example of Query to retrieve Statistics for December Precipation)*
 
-![](https://github.com/emmanuelbrim/surfs_up/blob/main/Resources/Dec%20Temps.PNG)
+![](https://github.com/emmanuelbrim/surfs_up/blob/main/Resources/Dec%20Precp.PNG)
