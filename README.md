@@ -31,7 +31,7 @@ Though the temperature looks good a perfect weather will be one without much rai
 Analyzing precipitation data from this months will provide more insight into the total weather condition of Oahu. 
 The summary statistics of precipitation for June and December should be considered.
 
-**Example of Query to retrieve Statistics for June Precipation  **
+_Example of Query to retrieve Statistics for June Precipation _
 ![Image text](https://github.com/emmanuelbrim/surfs_up/blob/main/Resources/June%20Temps.PNG)
 
 **Example of Query to retrieve Statistics for December Precipation  **
