@@ -33,7 +33,7 @@ Analyzing precipitation data from this months will provide more insight into the
 The summary statistics of precipitation for June and December should be considered.
 
 
-*Example of Query to retrieve Statistics for June Precipation 
+**Example of Query to retrieve Statistics for June Precipation 
 
 ![Image text](https://github.com/emmanuelbrim/surfs_up/blob/main/Resources/June%20Temps.PNG)
 
